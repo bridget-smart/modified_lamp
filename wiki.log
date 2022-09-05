@@ -1,0 +1,46 @@
+Read 51320 Wiki trails with 346780 total visits and 20561 back steps
+Saw 3503 frequent items with 343086 total visits and 3694 visits of infrequent items
+Read 51320 trails with 295460 transitions total in 0.404519 secs
+Cross validation fold 0 test fold size 5132 train fold size 46188 test begin 0 test end 5132 train begin 5132 train end 0
+Cross validation fold 0 common location 3235 train only 269 test only 0
+Computed empiricial transition matrix and item frequencies in 7.37675 secs
+Empricial transition matrix has 58834 non-zero entries
+Initial       train log-likelihood -817290.134914 perplexity 21.525836 accuracy 0.193655 weights=[1] num params=58834
+Initial       test log-likelihood -114499.559732 perplexity 50.618082 accuracy 0.172876 weights=[1] num params=58834
+W-step 0/0 begin log-likelihood -817290.134914 perplexity 21.525836 weights=[1]
+W-step 0/0 max weight change 0
+Step 0 optimized weights train log-likelihood -817290.134914 perplexity 21.525836 accuracy 0.193655 weights=[1]
+T-step 0 begin train log-likelihood -817290.134914 perplexity 21.525836 accuracy 0.193655 weights=[1]
+T-step 0/row 0/0 curr partial log-likelihood=-15294.091447 prev best partial log-likelihood=-1000000000000000019884624838656.000000 prev max delta=1e+10 max_allowed_change=1
+T-step 0/row 1944/0 curr partial log-likelihood=-46.762579 prev best partial log-likelihood=-1000000000000000019884624838656.000000 prev max delta=1e+10 max_allowed_change=1
+T-step 0 max final transition prob change=9.9974e-05
+Step 0 optimized transitions train log-likelihood -817289.514237 perplexity 21.525786 accuracy 0.193649 weights=[1]
+W-step 1/0 begin log-likelihood -817289.514237 perplexity 21.525786 weights=[1]
+W-step 1/0 max weight change 0
+Step 1 optimized weights train log-likelihood -817289.514237 perplexity 21.525786 accuracy 0.193649 weights=[1]
+T-step 1 begin train log-likelihood -817289.514237 perplexity 21.525786 accuracy 0.193649 weights=[1]
+T-step 1/row 0/0 curr partial log-likelihood=-15294.091259 prev best partial log-likelihood=-1000000000000000019884624838656.000000 prev max delta=1e+10 max_allowed_change=1
+T-step 1 max final transition prob change=3.83978e-06
+Step 1 optimized transitions train log-likelihood -817289.514213 perplexity 21.525786 accuracy 0.193655 weights=[1]
+W-step 2/0 begin log-likelihood -817289.514213 perplexity 21.525786 weights=[1]
+W-step 2/0 max weight change 0
+Step 2 optimized weights train log-likelihood -817289.514213 perplexity 21.525786 accuracy 0.193655 weights=[1]
+T-step 2 begin train log-likelihood -817289.514213 perplexity 21.525786 accuracy 0.193655 weights=[1]
+T-step 2/row 0/0 curr partial log-likelihood=-15294.091259 prev best partial log-likelihood=-1000000000000000019884624838656.000000 prev max delta=1e+10 max_allowed_change=1
+T-step 2 max final transition prob change=1.04035e-08
+Step 2 optimized transitions train log-likelihood -817289.514213 perplexity 21.525786 accuracy 0.193655 weights=[1]
+LAMP          train log-likelihood -817289.514213 perplexity 21.525786 accuracy 0.193655 weights=[1] num params=58834
+LAMP          test log-likelihood -114501.674753 perplexity 50.621751 accuracy 0.172438 weights=[1] num params=58834
+Optimized LAMP in 1.91172 secs
+Initial       train log-likelihood -918370.642397 perplexity 31.464249 accuracy 0.153029 weights=[0.555556, 0.444444] num params=58834
+Initial       test log-likelihood -123290.650019 perplexity 68.416288 accuracy 0.134387 weights=[0.555556, 0.444444] num params=58834
+W-step 0/0 begin log-likelihood -918370.642397 perplexity 31.464249 weights=[0.555556, 0.444444]
+W-step 0/0 max weight change 0.419468
+W-step 0/1 begin log-likelihood -821363.993703 perplexity 21.857692 weights=[0.975023, 0.0249766]
+W-step 0/1 max weight change 0.0249766
+W-step 0/2 begin log-likelihood -817290.134914 perplexity 21.525836 weights=[1, 0]
+W-step 0/2 max weight change 0
+Step 0 optimized weights train log-likelihood -817290.134914 perplexity 21.525836 accuracy 0.193655 weights=[1, 0]
+T-step 0 begin train log-likelihood -817290.134914 perplexity 21.525836 accuracy 0.193655 weights=[1, 0]
+T-step 0/row 0/0 curr partial log-likelihood=-24501.262449 prev best partial log-likelihood=-1000000000000000019884624838656.000000 prev max delta=1e+10 max_allowed_change=1
+T-step 0/row 1944/0 curr partial log-likelihood=-91.274068 prev best partial log-likelihood=-1000000000000000019884624838656.000000 prev max delta=1e+10 max_allowed_change=1

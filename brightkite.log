@@ -1,0 +1,7 @@
+Read 4747287 Brightkite check-ins in 50687 trails
+Skipped 6 lines with parse errors, 254619 with 000* location, 2428214 with self-loops, 19 with increasing time
+Saw 25347 frequent items with 926609 total visits and 1137820 visits of infrequent items
+Read 50687 trails with 2013742 transitions total in 4.3374 secs
+Using 48365 time based train trails with 1739823 transitions total, 86.73% of all, 35.97 transitions/trail on average
+Using 10086 time based test trails with 266155 transitions total, 13.27% of all, 26.39 transitions/trail on average
+Time based split common location 8007 train only 16414 test only 927
